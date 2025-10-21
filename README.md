@@ -18,7 +18,7 @@ Projeto de web scraping para consulta de valores de motos na tabela FIPE.
 ```bash
 # Clonar repositório
 git clone https://github.com/temakke/web-scraping.git
-cd fipe-motos-scraper
+cd web-scraping
 
 # Instalar dependências
 pip install -r requirements.txt
