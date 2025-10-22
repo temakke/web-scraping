@@ -16,6 +16,12 @@ BACKUP_INTERVAL = 5
 SCROLL_TIMES = 3
 SCROLL_RESET_TIMES = 7
 
+#
+
+motos = {}
+number_moto = 0
+
+
 # Seletores XPATH
 SELECTORS = {
     'menu_motos': '//*[@id="front"]/div[1]/div[2]/ul/li[3]/a/div[2]',
